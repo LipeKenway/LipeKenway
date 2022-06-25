@@ -14,6 +14,14 @@ My name is Felipe Soares. I currently live in São Paulo, Brazil and I am curren
 
 In my spare time, I try to study things that I have little knowledge of or when I feel curious about some topic, for example music and other things related to art, I have been doing this since I was 15 years old, and it helps me a lot to organize and seek inspirations and ideas for some of my future projects.
 
+## Detailed information
+
+* **Name**: Felipe Soares
+* **Age**: 24
+* **Living in**: Capão Redondo - SP, Brazil
+* **Stack**: HTML - CSS - JS - PHP - Bootstrap - SQL
+* **University**: Graduated in Systems Analysis and Development at Universidade Nove de Julho.
+
 ## 🛠 &nbsp;Tech Stack
  
 * **Front-End Stack**
@@ -41,7 +49,6 @@ In my spare time, I try to study things that I have little knowledge of or when 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
 
-
 * **Others**
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -54,14 +61,6 @@ In my spare time, I try to study things that I have little knowledge of or when 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 
-
-## Detailed information
-
-* **Name**: Felipe Soares
-* **Age**: 24
-* **Living in**: Capão Redondo - SP, Brazil
-* **Stack**: HTML - CSS - JS - PHP - Bootstrap - SQL
-* **University**: Graduated in Systems Analysis and Development at Universidade Nove de Julho.
 
 ## Curiosities about me
 
