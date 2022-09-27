@@ -19,7 +19,7 @@ In my spare time, I try to study things that I have little knowledge of or when 
 * **Name**: Felipe Soares
 * **Age**: 24
 * **Living in**: Capão Redondo - SP, Brazil
-* **Stack**: HTML - CSS - JS - PHP - Bootstrap - SQL
+* **Stack**: HTML - CSS - JS - Python - SQL
 * **University**: Graduated in Systems Analysis and Development at Universidade Nove de Julho.
 
 ## 🛠 &nbsp;Tech Stack
